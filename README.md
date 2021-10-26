@@ -8,7 +8,15 @@ Python 3.9 or higher is required. It may work on earlier versions; but they are 
 
 To install the library:
 
--- to do later -- 
+``` 
+# Linux/macOS
+python3 -m pip install -U py-discord
+
+# Windows
+py -3 -m pip install -U py-discord
+```
+
+Note the hyphen in the package name.
 
 
 ## Versioning Policy
